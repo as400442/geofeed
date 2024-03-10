@@ -1,0 +1,6 @@
+# AS400442 Geofeed, last updated (rfc3339): 2024-03-09T12:06:43.450293
+# Self-published geofeed as defined in RFC 8805.
+23.133.168.0/24,CA,CA-MB,Winnipeg,R3B 0V3
+205.236.99.0/24,CA,CA-MB,Winnipeg,R3B 0V3
+2602:fbc7:2::/48,CA,CA-MB,Winnipeg,R3B 0V3
+2602:fbc7:1::/48,CA,CA-MB,Winnipeg,R3B 0V3
