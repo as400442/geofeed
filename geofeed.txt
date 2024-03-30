@@ -4,3 +4,4 @@
 205.236.99.0/24,CA,CA-MB,Winnipeg,R3B 0V3
 2602:fbc7:2::/48,CA,CA-MB,Winnipeg,R3B 0V3
 2602:fbc7:1::/48,CA,CA-MB,Winnipeg,R3B 0V3
+2602:fbc7::/36,CA,CA-MB,Winnipeg,R3B 0V3
